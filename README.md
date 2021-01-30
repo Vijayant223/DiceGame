@@ -1,2 +1,1 @@
-# DiceGame
-First game I built
+TinDog Starting Files
